@@ -286,18 +286,18 @@ input[type="text"], input[type="email"], input[type="password"], input[type="nam
 
 /* line 215, ../sass/variables-theme-11.scss */
 .sliders .container-fluid .a-slider-tcontrols {
-  background: #444a60;
+  background: #fff;
 }
 
 /* line 218, ../sass/variables-theme-11.scss */
 .sliders .container-fluid .a-slider-tcontrols a {
-  color: #fff;
+  color: rgb(67,67,69);
 }
 
 /* line 222, ../sass/variables-theme-11.scss */
 .sliders .container-fluid .additional-info .heading,
 .sliders .container-fluid .album-sliders-container h4.album-name {
-  color: #444a60;
+  color: rgb(67,67,69);
 }
 
 /* line 226, ../sass/variables-theme-11.scss */
