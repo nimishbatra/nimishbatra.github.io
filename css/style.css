@@ -2288,28 +2288,28 @@ input[type="text"].white-style::-webkit-input-placeholder,
 input[type="email"].white-style::-webkit-input-placeholder,
 input[type="password"].white-style::-webkit-input-placeholder,
 input[type="name"].white-style::-webkit-input-placeholder {
-  color: #dde8ab;
+  color: rgb(67,67,69);
 }
 /* line 357, ../sass/_typography.scss */
 input[type="text"].white-style::-moz-placeholder,
 input[type="email"].white-style::-moz-placeholder,
 input[type="password"].white-style::-moz-placeholder,
 input[type="name"].white-style::-moz-placeholder {
-  color: #dde8ab;
+  color: rgb(67,67,69);
 }
 /* line 360, ../sass/_typography.scss */
 input[type="text"].white-style:-moz-placeholder,
 input[type="email"].white-style:-moz-placeholder,
 input[type="password"].white-style:-moz-placeholder,
 input[type="name"].white-style:-moz-placeholder {
-  color: #dde8ab;
+  color: rgb(67,67,69);
 }
 /* line 363, ../sass/_typography.scss */
 input[type="text"].white-style:-ms-input-placeholder,
 input[type="email"].white-style:-ms-input-placeholder,
 input[type="password"].white-style:-ms-input-placeholder,
 input[type="name"].white-style:-ms-input-placeholder {
-  color: #dde8ab;
+  color: rgb(67,67,69);
 }
 
 /**/
@@ -2341,19 +2341,19 @@ textarea.white-style:focus {
 }
 /* line 389, ../sass/_typography.scss */
 textarea.white-style::-webkit-input-placeholder {
-  color: #dde8ab;
+  color: rgb(67,67,69);
 }
 /* line 393, ../sass/_typography.scss */
 textarea.white-style::-moz-placeholder {
-  color: #dde8ab;
+  color: rgb(67,67,69);
 }
 /* line 396, ../sass/_typography.scss */
 textarea.white-style:-moz-placeholder {
-  color: #dde8ab;
+  color: rgb(67,67,69);
 }
 /* line 399, ../sass/_typography.scss */
 textarea.white-style:-ms-input-placeholder {
-  color: #dde8ab;
+  color: rgb(67,67,69);
 }
 
 /* line 404, ../sass/_typography.scss */
@@ -2685,7 +2685,7 @@ button:active:hover {
 .bootstrap-select.white-style .btn-default {
   border: none !important;
   background: #9eb533 !important;
-  color: #dde8ab;
+  color: rgb(67,67,69);
 }
 /* line 696, ../sass/_typography.scss */
 .bootstrap-select.white-style .btn-default .caret {
@@ -2697,7 +2697,7 @@ button:active:hover {
 }
 /* line 703, ../sass/_typography.scss */
 .bootstrap-select.white-style .dropdown-menu li a {
-  color: #dde8ab;
+  color: rgb(67,67,69);
 }
 /* line 704, ../sass/_typography.scss */
 .bootstrap-select.white-style .dropdown-menu li:hover {
