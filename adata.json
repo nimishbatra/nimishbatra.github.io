@@ -35,11 +35,11 @@
 		"photos" : ["images/portfolio/airpur/1.jpg","images/portfolio/airpur/2.jpg","images/portfolio/airpur/3.jpg","images/portfolio/airpur/4.jpg"]
 	},
 	"6" : {
-		"title" : "Business Card Mock-up",
-		"description" : "<p>Clean and bright mock-up to showcase your projects in a very realistic and professional way.</p><p>The best way to present your design and impress your client.</p>",
-		"client" : "Erick Malvin",
+		"title" : "Form Exploration",
+		"description" : "<p>Some explorations in 3D form</p>",
+		"client" : " ",
 		"url" : "",
-		"photos" : ["images/portfolio/img/6.jpg","images/portfolio/img/7.jpg","images/portfolio/img/8.jpg","images/portfolio/img/9.jpg","images/portfolio/img/10.jpg"]
+		"photos" : ["images/portfolio/form/1.png","images/portfolio/form/2.png","images/portfolio/form/3.jpg"]
 	},
 	"7" : {
 		"title" : "Chinese Restaurant Logo",
