@@ -14,11 +14,11 @@
 		"photos" : ["images/portfolio/cadbury/2.jpg","images/portfolio/cadbury/3.jpg","images/portfolio/cadbury/4.jpg","images/portfolio/cadbury/5.jpg","images/portfolio/cadbury/6.jpg"]
 	},
 	"3" : {
-		"title" : "Wonder Wharf Website",
-		"description" : "<p>While developing the website, we focused on profitable presentation of company services, which are clearly displayed in the site menu.</p>",
-		"client" : "Stereos",
+		"title" : "Coffee Grinder",
+		"description" : "<p>Every day we use ground coffee to make our beloved cup of Java. Yet have you ever stopped and wondered why we use ground coffee as opposed to just whole beans? Or why the size of the grind matters? Or why some people look at you with utter disbelief when you tell them that you use pre-ground coffee? </p> <p> Always grind your coffee freshly,just before brewing! </p>" ,
+		"client" : " ",
 		"url" : "",
-		"photos" : ["images/portfolio/img/3.jpg","images/portfolio/img/4.jpg","images/portfolio/img/5.jpg","images/portfolio/img/6.jpg","images/portfolio/img/7.jpg"]
+		"photos" : ["images/portfolio/coffee/1.jpg","images/portfolio/coffee/2.jpg","images/portfolio/coffee/3.jpg","images/portfolio/coffee/4.jpg","images/portfolio/coffee/5.jpg","images/portfolio/coffee/6.jpg"]
 	},
 	"4" : {
 		"title" : "Personal Identity Design",
