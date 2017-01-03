@@ -21,11 +21,11 @@
 		"photos" : ["images/portfolio/coffee/1.jpg","images/portfolio/coffee/2.jpg","images/portfolio/coffee/3.jpg","images/portfolio/coffee/4.jpg","images/portfolio/coffee/5.jpg","images/portfolio/coffee/6.jpg"]
 	},
 	"4" : {
-		"title" : "Personal Identity Design",
-		"description" : "<p>Clean and bright mock-up to showcase your projects in a very realistic and professional way.</p><p> The best way to present your design and impress your client.</p>",
-		"client" : "Mock Cup",
+		"title" : "keep",
+		"description" : "<p>A cool new way to keep your stuff organized right on your desk.</p><p> It will save you from the clutter that your creative projects generate and let you focus on the task on hand.</p>",
+		"client" : "keep",
 		"url" : "",
-		"photos" : ["images/portfolio/img/4.jpg","images/portfolio/img/5.jpg","images/portfolio/img/6.jpg","images/portfolio/img/7.jpg","images/portfolio/img/8.jpg"]
+		"photos" : ["images/portfolio/keep/1.jpg","images/portfolio/keep/2.jpg","images/portfolio/keep/3.jpg","images/portfolio/keep/4.jpg"]
 	},
 	"5" : {
 		"title" : "Montea Travel Website",
