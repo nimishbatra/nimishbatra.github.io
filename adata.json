@@ -7,11 +7,11 @@
 		"photos" : ["images/portfolio/halo/1.jpg","images/portfolio/halo/2.jpg","images/portfolio/halo/3.jpg","images/portfolio/halo/4.jpg","images/portfolio/halo/5.jpg","images/portfolio/halo/6.jpg","images/portfolio/halo/7.jpg","images/portfolio/halo/8.jpg"]
 	},
 	"2" : {
-		"title" : "Innovative Eco-design",
-		"description" : "<p>Bright eco-design to showcase your projects in a very realistic and professional way.</p><p>The best way to present your design and impress your client.</p><p>The best way to present your design and impress your client.</p><p>The best way to present your design and impress your client.</p><p>The best way to present your design and impress your client.</p><p>The best way to present your design and impress your client.</p><p>The best way to present your design and impress your client.</p>",
-		"client" : "Georg Shnider",
+		"title" : "Fun Packaging Design",
+		"description" : "<p>Redesign of chocolate packaging for kids, creating an element of surprise.</p><p>The challenge was to have a fresh new and playful design on the market to attract kids as the primary customers.</p>",
+		"client" : "Unknown",
 		"url" : "",
-		"photos" : ["images/portfolio/img/2.jpg","images/portfolio/img/3.jpg","images/portfolio/img/4.jpg","images/portfolio/img/5.jpg","images/portfolio/img/6.jpg"]
+		"photos" : ["images/portfolio/cadbury/2.jpg","images/portfolio/cadbury/3.jpg","images/portfolio/cadbury/4.jpg","images/portfolio/cadbury/5.jpg","images/portfolio/cadbury/6.jpg"]
 	},
 	"3" : {
 		"title" : "Wonder Wharf Website",
