@@ -49,11 +49,11 @@
 		"photos" : ["images/portfolio/img/7.jpg","images/portfolio/img/8.jpg","images/portfolio/img/9.jpg","images/portfolio/img/10.jpg","images/portfolio/img/11.jpg"]
 	},
 	"8" : {
-		"title" : "Novelist Agency Website",
-		"description" : "<p>While developing the website, we focused on profitable presentation of company services, which are clearly displayed in the site menu.</p>",
-		"client" : "Mock-Up",
+		"title" : "3D Print Ring",
+		"description" : "<p>A parametric design for a ring as a part of a quick 3D printed jewelry assignment.</p>",
+		"client" : "Jewelry Design",
 		"url" : "awdawdawdaw",
-		"photos" : ["images/portfolio/img/8.jpg","images/portfolio/img/9.jpg","images/portfolio/img/10.jpg","images/portfolio/img/11.jpg","images/portfolio/img/12.jpg"]
+		"photos" : ["images/portfolio/jewelry/1.jpg"]
 	},
 	"9" : {
 		"title" : "Fox Real Estate Agency",
