@@ -28,11 +28,11 @@
 		"photos" : ["images/portfolio/keep/1.jpg","images/portfolio/keep/2.jpg","images/portfolio/keep/3.jpg","images/portfolio/keep/4.jpg"]
 	},
 	"5" : {
-		"title" : "Montea Travel Website",
-		"description" : "<p>While developing the website, we focused on profitable presentation of company services, which are clearly displayed in the site menu.</p>",
-		"client" : "Red Line",
+		"title" : "AirPur",
+		"description" : "<p>Contaminated air even in household environment has been proven harmful for breathing. Impurities in air can cause respiratory diseases like asthama and also symptoms like fatigue. We need a solution which is portable, easy to use and effective in purifying the air in our home and workplace.</p> <p> Airpur, a portable air purifier that can be carried around the place and used effortlessly. It has a radial fan with filters for cleaning all types of contaminants in the air and giving fresh and healthy air to breathe to your family. It comes with a rechargeable battery.</p>",
+		"client" : "AirPur - Portable Air Purifier",
 		"url" : "",
-		"photos" : ["images/portfolio/img/5.jpg","images/portfolio/img/6.jpg","images/portfolio/img/6.jpg","images/portfolio/img/7.jpg","images/portfolio/img/8.jpg"]
+		"photos" : ["images/portfolio/airpur/1.jpg","images/portfolio/airpur/2.jpg","images/portfolio/airpur/3.jpg","images/portfolio/airpur/4.jpg"]
 	},
 	"6" : {
 		"title" : "Business Card Mock-up",
