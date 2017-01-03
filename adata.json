@@ -42,11 +42,11 @@
 		"photos" : ["images/portfolio/form/1.png","images/portfolio/form/2.jpg","images/portfolio/form/3.jpg"]
 	},
 	"7" : {
-		"title" : "Chinese Restaurant Logo",
-		"description" : "<p>Creative logo, that will perfectly fit the requirements of successful business.</p><p>The best way to present your design and impress your client.</p>",
-		"client" : "Mock-Up Book",
+		"title" : "Outdoor Furniture",
+		"description" : "<p>This design project had an objective to design cost effective and durable furniture for a Cafe at my design school. Careful explorations into materials and processes was the key.</p>",
+		"client" : "Ouutdoor Cafe Furniture",
 		"url" : "",
-		"photos" : ["images/portfolio/img/7.jpg","images/portfolio/img/8.jpg","images/portfolio/img/9.jpg","images/portfolio/img/10.jpg","images/portfolio/img/11.jpg"]
+		"photos" : ["images/portfolio/chair/1.jpg","images/portfolio/chair/2.jpg","images/portfolio/chair/3.jpg","images/portfolio/chair/4.jpg","images/portfolio/chair/5.jpg", "images/portfolio/chair/5.jpg"]
 	},
 	"8" : {
 		"title" : "3D Print Ring",
