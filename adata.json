@@ -56,11 +56,11 @@
 		"photos" : ["images/portfolio/jewelry/1.jpg"]
 	},
 	"9" : {
-		"title" : "Fox Real Estate Agency",
-		"description" : "<p>Effective website that will perfectly fit the requirements of successful business. The best way to present your design and impress your client.</p>",
-		"client" : "Cupboard",
+		"title" : "Mouse Concept",
+		"description" : "<p>Inspired by Neo-Futurism, this mouse concept was designed in a 2 day project with the objective of form exploration and expression.</p>",
+		"client" : " ",
 		"url" : "",
-		"photos" : ["images/portfolio/img/9.jpg","images/portfolio/img/10.jpg","images/portfolio/img/11.jpg","images/portfolio/img/12.jpg","images/portfolio/img/13.jpg"]
+		"photos" : ["images/portfolio/mouse/1.jpg","images/portfolio/mouse/2.jpg","images/portfolio/mouse/3.jpg","images/portfolio/mouse/4.jpg","images/portfolio/mouse/5.jpg"]
 	},
 	"10" : {
 		"title" : "Pearl Jewelry Website",
