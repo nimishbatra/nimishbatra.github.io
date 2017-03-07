@@ -70,11 +70,11 @@
 		"photos" : ["images/portfolio/watch/1.jpg", "images/portfolio/watch/2.jpg", "images/portfolio/watch/3.jpg","images/portfolio/watch/4.jpg","images/portfolio/watch/5.jpg","images/portfolio/watch/6.jpg","images/portfolio/watch/7.jpg","images/portfolio/watch/8.jpg","images/portfolio/watch/9.jpg"]
 	},
 	"11" : {
-		"title" : "Stationery Mock-up",
-		"description" : "<p>Clean and bright mock-up to showcase your projects in a very realistic and professional way.</p> <p>The best way to present your design and impress your client.</p>",
-		"client" : "New Level",
+		"title" : "Medshare",
+		"description" : "<p>Medshare is designed for dependent patients who need constant care and reminders for taking medicines on time. </p> <p>Medshare is IoT based product which brings the dependent patients closer to their loved ones. The prescriptions can be fed into the device and are dispensed with reminders on time. You get notifications when the patient takes or misses the medication, so you can take batter care.</p>",
+		"client" : " ",
 		"url" : "",
-		"photos" : ["images/portfolio/img/11.jpg","images/portfolio/img/12.jpg","images/portfolio/img/13.jpg","images/portfolio/img/14.jpg","images/portfolio/img/15.jpg"]
+		"photos" : ["images/portfolio/medshare/1.jpg","images/portfolio/medshare/2.jpg","images/portfolio/medshare/3.jpg","images/portfolio/medshare/4.jpg","images/portfolio/medshare/5.jpg", "images/portfolio/medshare/6.jpg"]
 	},
 	"12" : {
 		"title" : "Innovative Eco-design",
