@@ -36,10 +36,10 @@
 	},
 	"6" : {
 		"title" : "Form Exploration",
-		"description" : "<p>Some explorations in 3D form</p>",
+		"description" : "<p>Some explorations in 3D form. Understanding the elements and making compositions using cooncpts of figure and ground, balance, visual celebration and expressions. Worked with paper, styrofom and plaster.</p>",
 		"client" : " ",
 		"url" : "",
-		"photos" : ["images/portfolio/form/1.jpg","images/portfolio/form/2.jpg","images/portfolio/form/3.jpg","images/portfolio/form/4.jpg","images/portfolio/form/5.jpg"]
+		"photos" : ["images/portfolio/form/1.jpg","images/portfolio/form/2.jpg","images/portfolio/form/3.jpg","images/portfolio/form/4.jpg","images/portfolio/form/5.jpg", "images/portfolio/form/6.jpg","images/portfolio/form/7.jpg"]
 	},
 	"7" : {
 		"title" : "Outdoor Furniture",
