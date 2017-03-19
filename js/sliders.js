@@ -156,14 +156,14 @@ jQuery(window).load(function(){
 				$(".sliders").css('max-height', slider_container_height);
 				$(".sliders").css('height', slider_container_height);
 				// $(this).trigger( "click" );
-			}, 600);
+			}, 2000);
 
 		}else{
 			setTimeout(function() {
 				slider_container_height = $(".sliders .container-fluid").height();
 				$(".sliders").css('max-height', slider_container_height);
 				$(".sliders").css('height', slider_container_height);
-			}, 1000);
+			}, 2000);
 		};
 
 
