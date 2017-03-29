@@ -10213,3 +10213,19 @@ header.top-menu {
     transform: rotate(0deg) translateZ(0px);
   }
 }
+
+.resume-link {
+  width:100%;
+  text-align:center;
+  font-weight: normal;
+}
+
+.resume-link > a {
+  border:2px solid rgb(67,67,69); padding: 3px;
+  color: rgb(67,67,69);
+}
+
+.resume-link > a:hover {
+  background-color: rgb(67,67,69);
+  color: #fff;
+}
