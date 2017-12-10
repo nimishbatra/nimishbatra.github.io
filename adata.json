@@ -1,12 +1,12 @@
 {
-	"1" : {
+	"2" : {
 		"title" : "Halo",
 		"description" : "<p>Halo is a powerful bluetooth speaker having a minimalistic design. It has a unique way in which the user interacts to control the speaker.</p><p>Halo has a capacitive Touch Gesture Control Slider which recognizes finger gestures for all the speaker controls. No need of volume knobs and physical buttons.</p><p>Just touch to control.</p><p>Halo comes with a bright and high contrast white LCD display to view your track information. It shows Artist and Track Position too. Many colors to choose from. What color is your favorite?</p>",
 		"client" : "",
 		"url" : "",
 		"photos" : ["images/portfolio/halo/1.jpg","images/portfolio/halo/2.jpg","images/portfolio/halo/3.jpg","images/portfolio/halo/4.jpg","images/portfolio/halo/5.jpg","images/portfolio/halo/6.jpg","images/portfolio/halo/7.jpg","images/portfolio/halo/8.jpg"]
 	},
-	"2" : {
+	"1" : {
 		"title" : "Fun Packaging Design",
 		"description" : "<p>Redesign of chocolate packaging for kids, creating an element of surprise.</p><p>The challenge was to have a fresh new and playful design on the market to attract kids as the primary customers.</p>",
 		"client" : "Cadbury",
@@ -77,9 +77,9 @@
 		"photos" : ["images/portfolio/medshare/1.jpg","images/portfolio/medshare/2.jpg","images/portfolio/medshare/3.jpg","images/portfolio/medshare/4.jpg","images/portfolio/medshare/5.jpg", "images/portfolio/medshare/6.jpg"]
 	},
 	"12" : {
-		"title" : "Innovative Eco-design",
-		"description" : "<p>Bright eco-design to showcase your projects in a very realistic and professional way.</p><p>The best way to present your design and impress your client.</p>",
-		"client" : "Georg Shnider",
+		"title" : "Chair Design",
+		"description" : "<p>Re-imagining chair design with textured plastic and wood as the materials.</p><p></p>",
+		"client" : " ",
 		"url" : "",
 		"photos" : ["images/portfolio/img/12.jpg","images/portfolio/img/13.jpg","images/portfolio/img/14.jpg","images/portfolio/img/15.jpg","images/portfolio/img/16.jpg"]
 	},
